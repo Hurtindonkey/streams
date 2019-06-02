@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "test stream ",
+      "description": "a description",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "another stream",
+      "id": 2
+    },
+    {
+      "title": "this ",
+      "description": "will work",
+      "id": 4
+    },
+    {
+      "title": "I created this stream",
+      "description": "this was made by me 4",
+      "id": 5
+    },
+    {
+      "title": "refactored",
+      "description": "works 3",
+      "id": 6
+    }
+  ]
+}
